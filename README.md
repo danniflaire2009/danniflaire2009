@@ -26,3 +26,26 @@ What you’ll find here
 AI/ML projects, experiments, backend systems, random ideas, and things I’m currently learning.
 
 Build → Break → Learn → Repeat.
+
+ ### My Tech Stack
+
+### Languages
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
+![TypeScript](https://shields.io)
+![Rust](https://shields.io)
+![Go](https://shields.io)
+![Java](https://shields.io)
+![HTML](https://shields.io)
+![CSS](https://shields.io)
+![SQL](https://shields.io)
+
+### Frameworks & Libraries
+![React](https://shields.io)
+![NodeJS](https://shields.io)
+![Next.js](https://shields.io)
+
+### Tools & Databases
+![Git](https://shields.io)
+![Docker](https://shields.io)
+![MongoDB](https://shields.io)
