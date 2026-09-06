@@ -1,4 +1,4 @@
-Hi, I’m Danni F.
+Hi, I’m Daniel Akinlabi
 
 AI/ML Engineer • Software Engineer • Builder
 
@@ -6,7 +6,6 @@ I build intelligent systems, machine learning models, and production-ready softw
 
 My focus is on turning data → models → useful products while developing strong foundations in software engineering, mathematics, and machine learning.
 
-⸻
 
 About Me
 
@@ -17,7 +16,6 @@ About Me
 * Strong interest in building AI systems that solve real-world problems
 * Currently strengthening my foundations in Python, mathematics, algorithms, ML and backend engineering
 
-⸻
 
 Tech Stack
 
@@ -138,26 +136,29 @@ Problem → Data → Algorithm → Model → API → Product
 Currently Learning
 
 Python
-├── Advanced Python
-├── Algorithms & Data Structures
-├── Backend Engineering
-└── Software Architecture
+ Advanced Python
+ Algorithms & Data Structures
+Backend Engineering
+Software Architecture
+
 Mathematics
-├── Linear Algebra
-├── Probability
-├── Statistics
-└── Calculus
+Linear Algebra
+Probability
+Statistics
+ Calculus
+ 
 Machine Learning
-├── Classical ML
-├── Deep Learning
-├── NLP
-└── Generative AI
+Classical ML
+Deep Learning
+NLP
+Generative AI
+
 AI Engineering
-├── LLMs
-├── RAG
-├── Agents
-├── Model Serving
-└── MLOps
+LLMs
+RAG
+Agents
+Model Serving
+MLOps
 
 
 GitHub Goals
