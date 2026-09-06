@@ -39,13 +39,3 @@ Build → Break → Learn → Repeat.
 ![HTML](https://shields.io)
 ![CSS](https://shields.io)
 ![SQL](https://shields.io)
-
-### Frameworks & Libraries
-![React](https://shields.io)
-![NodeJS](https://shields.io)
-![Next.js](https://shields.io)
-
-### Tools & Databases
-![Git](https://shields.io)
-![Docker](https://shields.io)
-![MongoDB](https://shields.io)
