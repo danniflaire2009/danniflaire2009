@@ -1,47 +1,37 @@
 # 🪐 Hey, I’m Daniel Akinlabi
-
-## 🤖 AI/ML Engineer
-
+### 🤖 AI/ML Engineer
 > **Build → Break → Learn → Repeat.**
 
-I like building things, breaking them, figuring out why they broke, and building them better. Currently focused on **Python, AI/ML, Data Science & Software Engineering.**
+I build, break, analyze, and optimize intelligent architectures. Currently engineering systems with **Python, AI/ML, Data Science, and Backend Software Engineering.**
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Languages
-![Python](https://shields.io)
-![TypeScript](https://shields.io)
-![JavaScript](https://shields.io)
-![Java](https://shields.io)
-![Go](https://shields.io)
-![Rust](https://shields.io)
-![SQL](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+#### Languages
+<img src="https://jsdelivr.net" width="30" height="30" /> **Python**
+<img src="https://jsdelivr.net" width="30" height="30" /> **TypeScript**
+<img src="https://jsdelivr.net" width="30" height="30" /> **JavaScript**
+<img src="https://jsdelivr.net" width="30" height="30" /> **Java**
+<img src="https://jsdelivr.net" width="30" height="30" /> **Go**
+<img src="https://jsdelivr.net" width="30" height="30" /> **Rust**
 
-### 🧠 AI/ML & Data Science
-![PyTorch](https://shields.io)
-![scikit-learn](https://shields.io)
-![NumPy](https://shields.io)
-![Pandas](https://shields.io)
+#### AI/ML & Data Science
+<img src="https://jsdelivr.net" width="30" height="30" /> **PyTorch**
+<img src="https://jsdelivr.net" width="30" height="30" /> **NumPy**
+<img src="https://jsdelivr.net" width="30" height="30" /> **Pandas**
 
-### ⚡ Backend & Tools
-![FastAPI](https://shields.io)
-![Flask](https://shields.io)
-![Docker](https://shields.io)
-![Git](https://shields.io)
+#### Backend & Tools
+<img src="https://jsdelivr.net" width="30" height="30" /> **FastAPI**
+<img src="https://jsdelivr.net" width="30" height="30" /> **Flask**
+<img src="https://jsdelivr.net" width="30" height="30" /> **Docker**
+<img src="https://jsdelivr.net" width="30" height="30" /> **Git**
 
 ---
 
-## 🚀 Currently Focuses
-* **Machine Learning & AI:** Diving deeper into training and fine-tuning.
-* **Practical Builds:** Turning theoretical concepts into working software architectures.
-* **Intelligent Systems:** Actively exploring LLMs, AI agents, computer vision, and cognitive systems.
-* **Production Engineering:** Refining my skills to write robust, production-level code.
+## 🚀 Currently Focusing On
+* **Intelligent Systems:** Exploring LLMs, AI agents, and computer vision.
+* **Production Engineering:** Writing robust, scalable, production-level code.
 
----
-
-## 📂 What You'll Find Here
-Inside my repositories, you will discover real-world **AI/ML projects, backend system experiments, random engineering ideas,** and detailed logs of things I am currently mastering.
+## 📂 What's Here
+A collective showcase of my AI/ML pipelines, backend experiments, and software systems.
