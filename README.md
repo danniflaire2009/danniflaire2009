@@ -9,24 +9,19 @@ I build, break, analyze, and optimize intelligent architectures. Currently engin
 ## 🛠️ Tech Stack
 
 #### Languages
-[![Python](https://shields.io)](https://www.python.org/)
-[![TypeScript](https://shields.io)](https://typescriptlang.org)
-[![JavaScript](https://shields.io)](https://mozilla.org)
-[![Java](https://shields.io)](https://oracle.com)
-[![Go](https://shields.io)](https://go.dev)
-[![Rust](https://shields.io)](https://rust-lang.org)
+<a href="https://python.org"><img src="https://jsdelivr.net" width="36" height="36" alt="Python" /></a> **Python**
+<a href="https://typescriptlang.org"><img src="https://jsdelivr.net" width="36" height="36" alt="TypeScript" /></a> **TypeScript**
+<a href="https://mozilla.org"><img src="https://jsdelivr.net" width="36" height="36" alt="JavaScript" /></a> **JavaScript**
+<a href="https://oracle.com"><img src="https://jsdelivr.net" width="36" height="36" alt="Java" /></a> **Java**
+<a href="https://go.dev"><img src="https://jsdelivr.net" width="36" height="36" alt="Go" /></a> **Go**
+<a href="https://rust-lang.org"><img src="https://jsdelivr.net" width="36" height="36" alt="Rust" /></a> **Rust**
 
-#### AI/ML & Data Science
-[![PyTorch](https://shields.io)](https://pytorch.org)
-[![scikit-learn](https://shields.io)](https://scikit-learn.org)
-[![NumPy](https://shields.io)](https://numpy.org)
-[![Pandas](https://shields.io)](https://pydata.org)
 
 #### Backend & Tools
-[![FastAPI](https://shields.io)](https://tiangolo.com)
-[![Flask](https://shields.io)](https://palletsprojects.com)
-[![Docker](https://shields.io)](https://docker.com)
-[![Git](https://shields.io)](https://git-scm.com)
+<a href="https://tiangolo.com"><img src="https://jsdelivr.net" width="36" height="36" alt="FastAPI" /></a> **FastAPI**
+<a href="https://palletsprojects.com"><img src="https://jsdelivr.net" width="36" height="36" alt="Flask" /></a> **Flask**
+<a href="https://docker.com"><img src="https://jsdelivr.net" width="36" height="36" alt="Docker" /></a> **Docker**
+<a href="https://git-scm.com"><img src="https://jsdelivr.net" width="36" height="36" alt="Git" /></a> **Git**
 
 ---
 
