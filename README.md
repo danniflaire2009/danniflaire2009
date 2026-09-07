@@ -9,23 +9,24 @@ I build, break, analyze, and optimize intelligent architectures. Currently engin
 ## 🛠️ Tech Stack
 
 #### Languages
-<img src="https://jsdelivr.net" width="30" height="30" /> **Python**
-<img src="https://jsdelivr.net" width="30" height="30" /> **TypeScript**
-<img src="https://jsdelivr.net" width="30" height="30" /> **JavaScript**
-<img src="https://jsdelivr.net" width="30" height="30" /> **Java**
-<img src="https://jsdelivr.net" width="30" height="30" /> **Go**
-<img src="https://jsdelivr.net" width="30" height="30" /> **Rust**
+[![Python](https://shields.io)](https://www.python.org/)
+[![TypeScript](https://shields.io)](https://typescriptlang.org)
+[![JavaScript](https://shields.io)](https://mozilla.org)
+[![Java](https://shields.io)](https://oracle.com)
+[![Go](https://shields.io)](https://go.dev)
+[![Rust](https://shields.io)](https://rust-lang.org)
 
 #### AI/ML & Data Science
-<img src="https://jsdelivr.net" width="30" height="30" /> **PyTorch**
-<img src="https://jsdelivr.net" width="30" height="30" /> **NumPy**
-<img src="https://jsdelivr.net" width="30" height="30" /> **Pandas**
+[![PyTorch](https://shields.io)](https://pytorch.org)
+[![scikit-learn](https://shields.io)](https://scikit-learn.org)
+[![NumPy](https://shields.io)](https://numpy.org)
+[![Pandas](https://shields.io)](https://pydata.org)
 
 #### Backend & Tools
-<img src="https://jsdelivr.net" width="30" height="30" /> **FastAPI**
-<img src="https://jsdelivr.net" width="30" height="30" /> **Flask**
-<img src="https://jsdelivr.net" width="30" height="30" /> **Docker**
-<img src="https://jsdelivr.net" width="30" height="30" /> **Git**
+[![FastAPI](https://shields.io)](https://tiangolo.com)
+[![Flask](https://shields.io)](https://palletsprojects.com)
+[![Docker](https://shields.io)](https://docker.com)
+[![Git](https://shields.io)](https://git-scm.com)
 
 ---
 
