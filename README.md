@@ -9,10 +9,7 @@ I build, break, analyze, and optimize intelligent architectures. Currently engin
 ## 🛠️ Tech Stack
 
 #### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,ts,js,java,go,rust)](https://skillicons.dev)
-
-#### AI/ML & Data Science
-[![My Skills](https://skillicons.dev/icons?i=pytorch,numpy,pandas)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python, html, css, sql)](https://skillicons.dev)
 
 #### Backend & Tools
 [![My Skills](https://skillicons.dev/icons?i=fastapi,flask,docker,git)](https://skillicons.dev)
