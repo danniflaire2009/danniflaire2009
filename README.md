@@ -1,4 +1,4 @@
-# 🪐 Hey, I’m Daniel Akinlabi
+# 🪐 Hey, I'm Daniel Akinlabi
 ### 🤖 AI/ML Engineer
 > **Build → Break → Learn → Repeat.**
 
@@ -9,19 +9,13 @@ I build, break, analyze, and optimize intelligent architectures. Currently engin
 ## 🛠️ Tech Stack
 
 #### Languages
-<a href="https://python.org"><img src="https://jsdelivr.net" width="36" height="36" alt="Python" /></a> **Python**
-<a href="https://typescriptlang.org"><img src="https://jsdelivr.net" width="36" height="36" alt="TypeScript" /></a> **TypeScript**
-<a href="https://mozilla.org"><img src="https://jsdelivr.net" width="36" height="36" alt="JavaScript" /></a> **JavaScript**
-<a href="https://oracle.com"><img src="https://jsdelivr.net" width="36" height="36" alt="Java" /></a> **Java**
-<a href="https://go.dev"><img src="https://jsdelivr.net" width="36" height="36" alt="Go" /></a> **Go**
-<a href="https://rust-lang.org"><img src="https://jsdelivr.net" width="36" height="36" alt="Rust" /></a> **Rust**
+[![My Skills](https://skillicons.dev/icons?i=python,ts,js,java,go,rust)](https://skillicons.dev)
 
+#### AI/ML & Data Science
+[![My Skills](https://skillicons.dev/icons?i=pytorch,numpy,pandas)](https://skillicons.dev)
 
 #### Backend & Tools
-<a href="https://tiangolo.com"><img src="https://jsdelivr.net" width="36" height="36" alt="FastAPI" /></a> **FastAPI**
-<a href="https://palletsprojects.com"><img src="https://jsdelivr.net" width="36" height="36" alt="Flask" /></a> **Flask**
-<a href="https://docker.com"><img src="https://jsdelivr.net" width="36" height="36" alt="Docker" /></a> **Docker**
-<a href="https://git-scm.com"><img src="https://jsdelivr.net" width="36" height="36" alt="Git" /></a> **Git**
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,docker,git)](https://skillicons.dev)
 
 ---
 
