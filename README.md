@@ -15,7 +15,7 @@ I build, break, analyze, and optimize intelligent architectures. Currently engin
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,postgresql,javascript,anaconda,notion)](https://skillicons.dev)
 
 #### Backend & Tools
-[![My Skills](https://skillicons.dev/icons?i=fastapi,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,numpy,pandas,seaborn)](https://skillicons.dev)
 
 ---
 
